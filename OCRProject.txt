@@ -1,0 +1,1 @@
+this project takes an image and find the text in it and display it on console

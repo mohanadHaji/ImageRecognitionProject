@@ -1,0 +1,1 @@
+this project uses Ai module that was trained to recognise cars plate and dsiplay them on the console
